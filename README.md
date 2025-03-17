@@ -120,13 +120,3 @@ For faster access and demonstration purposes, we have included a single wave fro
 By denoising the seismic data from lunar and Mars missions, we have improved its clarity and accuracy. This process is essential for accurately analyzing seismic activity, filtering out irrelevant data, and preserving the most valuable scientific information for transmission back to Earth. The result is a more efficient mission, with enhanced data quality and extended operational lifespan.
 
 __________________________________________________________
-
-## Team Name: Team Avinya
-
-### Members:
-- Yash Shivlal Purbhe
-- Dipshree Atul Vartak
-- Aditya Rajendra Kokate
-- Saniya Santosh Puchalwar
-- Karan Navnath Waghchaure
-- Roshni Kumari Sah
