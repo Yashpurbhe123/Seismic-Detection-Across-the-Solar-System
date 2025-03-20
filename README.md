@@ -16,11 +16,6 @@ Due to limited power and bandwidth on space missions, transmitting all the data 
 This system enhances mission efficiency and extends its lifespan by focusing on transmitting only the most valuable scientific data.
 
 ---
-## Presentation
-
-### **You can view our project presentation [here](https://docs.google.com/presentation/d/1DAsJ-vLVV5hlKAxlzBwsK58mOXtDu5ur/edit?usp=drive_link&ouid=113565322498149698307&rtpof=true&sd=true).**
-
----
 
 ## Technologies Used
 
